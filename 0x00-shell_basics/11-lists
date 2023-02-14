@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -d .* ../* /boot/* | xargs ls -dl
+ls -la . .. /boot
